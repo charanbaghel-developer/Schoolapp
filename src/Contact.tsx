@@ -37,7 +37,7 @@ function Contact()
                               <input type="text" className="form-control" placeholder="Subject" />
                           </div>
                           <div className="control-group mb-3">
-                              <textarea className="form-control" rows="6" placeholder="Message"></textarea>
+                              <textarea className="form-control" rows={6} placeholder="Message"></textarea>
                           </div>
                           <div>
                               <button className="btn btn-primary py-2 px-4" type="submit">Send Message</button>
