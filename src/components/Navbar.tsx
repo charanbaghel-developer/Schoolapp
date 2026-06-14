@@ -50,14 +50,14 @@ function Navbar()
             </Link>
           </div>
 
-          {/* <a
+           <a
             href="https://htmlcodex.com/downloading/?item=1144"
             className="btn btn-primary px-4"
             target="_blank"
             rel="noreferrer"
           >
             Buy Pro Version
-          </a> */}
+          </a> 
         </div>
       </nav>
     </div>

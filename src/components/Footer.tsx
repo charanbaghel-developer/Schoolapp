@@ -60,11 +60,11 @@ function Footer() {
              <h3 className="text-primary mb-4">Newsletter</h3>
              <form action="">
                  <div className="form-group">
-                     <input type="text" className="form-control border-0 py-4" placeholder="Your Name" required="required" />
+                     <input type="text" className="form-control border-0 py-4" placeholder="Your Name"  />
                  </div>
                  <div className="form-group">
                      <input type="email" className="form-control border-0 py-4" placeholder="Your Email"
-                         required="required" />
+                          />
                  </div>
                  <div>
                      <button className="btn btn-primary btn-block border-0 py-3" type="submit">Submit Now</button>
