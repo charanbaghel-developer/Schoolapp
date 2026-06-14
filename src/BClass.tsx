@@ -133,10 +133,10 @@
                      <div className="card-body rounded-bottom bg-primary p-5">
                          <form>
                              <div className="form-group">
-                                 <input type="text" className="form-control border-0 p-4" placeholder="Your Name" require />
+                                 <input type="text" className="form-control border-0 p-4" placeholder="Your Name"  />
                              </div>
                              <div className="form-group">
-                                 <input type="email" className="form-control border-0 p-4" placeholder="Your Email" required />
+                                 <input type="email" className="form-control border-0 p-4" placeholder="Your Email"  />
                              </div>
                              <div className="form-group">
                                  <select className="custom-select border-0 px-4" style={{height: "47px"}}>
