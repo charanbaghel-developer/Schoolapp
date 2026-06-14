@@ -1,15 +1,7 @@
-import { useEffect } from "react";
+
 
 function Home()
-{useEffect(() => {
-  if (window.$) {
-    window.$(".owl-carousel").owlCarousel({
-      items: 3,
-      loop: true,
-      autoplay: true,
-    });
-  }
-}, []);
+
     return(
         <>
        {/* <!-- Header Start -->*/}
